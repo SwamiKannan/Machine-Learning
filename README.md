@@ -1,4 +1,5 @@
 # Machine Learning
+![Regression vs Classification](intro.png) <br>
  This is a portfolio of all the case studies / projects I have prepared using Machine learning algorithms (Non-Deep Learning). These include Supervised, Unsupervised projects as well as Recommendation Engine related projects <br>
 ## Highlights:<br>
 <ul>
@@ -8,3 +9,5 @@
 <li>Algorithms: KNN, Naive Bayes, SVM, Logistic Regression, Decision Trees, Ensemble Models -GradientBoosting, XGBoost, RandomForestRegressor, AdaBoost</li><br>
 <li>Hyperparameter Search: Grid Search, Random Search, Manual hyperparameter searches</li><br>
 </ul>
+
+#Image Credits: [SEONGJUHONG](https://seongjuhong.com/2019-12-08am-types-of-machine-learning/)
